@@ -1,6 +1,9 @@
 fastapi
-uvicorn
+uvicorn[standard]
 pydantic
 python-multipart
 pyjwt[crypto]
 pytest
+requests
+httpx
+jupyterlab
